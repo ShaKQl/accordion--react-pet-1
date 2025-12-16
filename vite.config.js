@@ -10,5 +10,5 @@ export default defineConfig({
       },
     }),
   ],
-  // base: '/accordion--react-pet-1/',
+  base: '/accordion--react-pet-1/',
 })
